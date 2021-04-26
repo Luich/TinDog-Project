@@ -1,2 +1,1 @@
-# TinDog-Project
-Course Project
+TinDog Starting Files
